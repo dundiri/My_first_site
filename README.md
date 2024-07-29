@@ -1,4 +1,4 @@
-###My_first_site   
+### My_first_site   
 
 
 După cum spune și titlul, acest proiect este pentru mine primul de acest gen în absolut.
