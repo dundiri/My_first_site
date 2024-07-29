@@ -1,4 +1,4 @@
-####My_first_site####   
+###My_first_site   
 
 
 După cum spune și titlul, acest proiect este pentru mine primul de acest gen în absolut.
@@ -24,7 +24,7 @@ Pentru realizarea proiectului am făcut următorii pași:
   
 Atât imaginea de fundal cât și celelalte imagini pot fi văzute aici
 
-M-am folosit de <div class="row">  pentru a crea spațiul necesar afișării icoanelor platformelor de social media.
+M-am folosit de `row`  pentru a crea spațiul necesar afișării icoanelor platformelor de social media.
 
 - Pasul 6: Am creat un nou fișier pagina1.html (numele fișierului trebuie sa corespunda cu denumirea pusa ca si link în navigare). Am importat librăria Bootstrap in head-ul fișierului meu. Am adăugat și aici zona de navigare, pentru a putea accesa toate paginile din meniu chiar și din această pagină.
 
