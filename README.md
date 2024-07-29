@@ -2,7 +2,8 @@
 
 
 După cum spune și titlul, acest proiect este pentru mine primul de acest gen în absolut.
-A fost destul de dificil să mă descurc prin labirintul de 
+A fost destul de dificil să mă descurc prin labirintul de informații și tutoriale.     
+
 Am ales varianta cu navbar [https://www.w3schools.com/bootstrap/bootstrap_navbar.asp]
  și adaugarea zonei de navigare pe fiecare pagina cu clasa "active" pe elementul corespunzator.     
  
